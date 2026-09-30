@@ -13,3 +13,10 @@
 
 # Other
 .DS_Store
+build/
+
+# Zed
+.zed
+
+# Xcode-Build-Server
+buildServer.json
